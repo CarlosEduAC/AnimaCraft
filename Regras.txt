@@ -1,0 +1,17 @@
+Roda Perna no eixo X - Horário (w) Antihorário (q)
+Roda Perna no eixo Y - Horário (s) Antihorário (a)
+Roda Perna no eixo Z - Horário (x) Antihorário (z)
+Roda Braço no eixo X - Horário (r) Antihorário (e)
+Roda Braço no eixo Y - Horário (f) Antihorário (d)
+Roda Braço no eixo Z - Horário (v) Antihorário (c)
+Roda Cabeça no eixo X - Horário (y) Antihorário (t)
+Roda Cabeça no eixo Y - Horário (h) Antihorário (g)
+Roda Cabeça no eixo Z - Horário (n) Antihorário (b)
+Roda Tronco no eixo X - Horário (i) Antihorário (u)
+Roda Tronco no eixo Y - Horário (k) Antihorário (j)
+Roda Tronco no eixo Z - Horário (p) Antihorário (o)
+
+Esquerda - Tecla Esquerda
+Direita - Tecla Direita
+Cima - Tecla Cima
+Baixo - Tecla Baixo
